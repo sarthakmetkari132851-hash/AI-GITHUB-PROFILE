@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Sarthak Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Sarthak Metkari
 
 ## 🚀 AI & Machine Learning Student | Future Full-Stack Developer
