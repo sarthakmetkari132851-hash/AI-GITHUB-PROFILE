@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
+  <!-- Background -->
+  <rect width="1200" height="300" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text
+    x="600"
+    y="120"
+    fill="#58A6FF"
+    font-size="50"
+    font-family="Arial"
+    text-anchor="middle">
+    Hi, I'm Sarthak Metkari
+  </text>
+
+  <!-- Subtitle -->
+  <text
+    x="600"
+    y="180"
+    fill="white"
+    font-size="28"
+    font-family="Arial"
+    text-anchor="middle">
+    AI • Machine Learning • Future Full-Stack Developer
+  </text>
+
+  <!-- Bottom Line -->
+  <line
+    x1="250"
+    y1="220"
+    x2="950"
+    y2="220"
+    stroke="#58A6FF"
+    stroke-width="3"/>
+</svg>
